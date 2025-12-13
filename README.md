@@ -54,7 +54,8 @@ Download **one** of the following files from this repository:
 ### 2. Make the script executable
 
 GitHub browser downloads do **not** preserve executable permissions, so this step is required:
-
+First cd to the directory where you downloaded the script.
+Then:
 ```bash
 chmod +x bvcinst.sh
 ```
@@ -65,7 +66,7 @@ from the file properties open Rights, Execute:, and check the box: Allow file to
 
 ### 4. Run the installer script
 
-Then to install from the script run in terminal:
+Then to install from the script run in terminal in the same directory where you downloaded it:
 
 ```bash
 sudo ./bvcinst.sh
@@ -76,7 +77,7 @@ sudo ./bvideoconverter_install.sh
 
 ```
 Or in Mint´s file browser you can also just Open terminal in the directory where you downloaded it and
-then run it as said above.
+then run the script as said above.
 
 After successful install:
 
