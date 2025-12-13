@@ -84,6 +84,7 @@ or BVideomuunnin in Finnish
 ## Notes
 - Free Trial: Watermarked videos.
 - Upgrade: Buy STD/PRO at https://bittiainen.com.
+- Currently only PRO license is sold.
 
 ## Support
 support@bittix.org
