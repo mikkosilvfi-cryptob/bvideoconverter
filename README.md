@@ -27,6 +27,10 @@ This GitHub repository is provided **for convenience and visibility only**.
 - **Licenses & legal information:**  
   https://bittiainen.com
 
+  The End User License for BVideoconverter:
+  https://repo.bittiainen.com/EULA.pdf
+  
+
   You can always open the right menu choice of https://bittiainen.com directly from BVideoconverter program Menu,
   after installing the Free Trial the EULA is shown when you first start the program, you must accept it or decline,
   and the EULA is also at anytime shown from the program´s Help menu.  
