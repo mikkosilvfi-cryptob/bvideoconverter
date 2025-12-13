@@ -75,6 +75,10 @@ sudo ./bvcinst.sh
 sudo ./bvideoconverter_install.sh
 
 ```
+Or in Mint´s file browser you can also just Open terminal in the directory where you downloaded it and
+then run it as said above.
+
+After successful install:
 
 ### 5. Run the program from OS´s Menu
 
