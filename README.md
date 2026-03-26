@@ -11,7 +11,8 @@ distribution-aware installer designed especially for Linux Mint and other APT-ba
 
 - https://repo.bittiainen.com  
 - https://bittiainen.com  
-
+- Now also BVideoconverter for Windows (Trial NO watermarks and Pro) is published,
+- find them at the above mentioned web sites.
 This GitHub repository is provided **for convenience and visibility only**.
 
 ---
