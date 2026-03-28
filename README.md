@@ -1,6 +1,6 @@
 # BVideoconverter Free Trial
 
-# BVideoconverter (Linux)
+# BVideoconverter (Linux and Windows)
 
 BVideoconverter is a Linux video conversion and processing application with an advanced, 
 distribution-aware installer designed especially for Linux Mint and other APT-based systems.
@@ -21,6 +21,8 @@ This GitHub repository is provided **for convenience and visibility only**.
 
 - **APT repository & packages:**  
   https://repo.bittiainen.com
+The latest version of BVideoconverter for linux from the repo has NO watermarks.
+And also the latest version for Windows has no watermarks.
 
 - **Product information, documentation, help & guides:**  
   https://bittiainen.com
