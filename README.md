@@ -56,7 +56,6 @@ Both scripts contain the same functionality.
 Download **one** of the following files from this repository:
 
 - `bvcinst.sh` (recommended)
-- or `bvideoconverter_install.sh`
 
 ### 2. Make the script executable
 
